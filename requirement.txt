@@ -1,0 +1,4 @@
+python=3.10.*
+ipykernel=6.19.2
+sklearn
+matplotlib
